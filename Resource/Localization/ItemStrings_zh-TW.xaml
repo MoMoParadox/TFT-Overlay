@@ -37,7 +37,7 @@
     <s:String x:Key="Bloodthirster1" xml:space="preserve">&#10;+50%普攻吸血。</s:String>
     <!--Cursed Blade-->
     <s:String x:Key="CursedBlade" xml:space="preserve">詛咒之刃</s:String>
-    <s:String x:Key="CursedBlade1" xml:space="preserve">&#10;普攻有低機率使目標受到縮小詛咒，減少該目標1星。</s:String>
+    <s:String x:Key="CursedBlade1" xml:space="preserve">&#10;普攻有低機率使目標受到縮小詛咒，減少該目標1星。最低可以將目標降為 0 星等</s:String>
     <!--Dragon's Claw-->
     <s:String x:Key="DragonsClaw" xml:space="preserve">龍之爪</s:String>
     <s:String x:Key="DragonClaw1" xml:space="preserve">&#10;額外獲得83%魔法傷害減免。</s:String>
@@ -64,7 +64,7 @@
     <s:String x:Key="IonicSpark1" xml:space="preserve">&#10;當敵人施放技能時，對施放者造成200點真實傷害。</s:String>
     <!--Locket of the Iron Solari-->
     <s:String x:Key="LocketSolari" xml:space="preserve">日輪的加冕</s:String>
-    <s:String x:Key="LocketSolari1" xml:space="preserve">&#10;開場時給予裝備者及其左右兩格內友軍英雄300點護盾。</s:String>
+    <s:String x:Key="LocketSolari1" xml:space="preserve">&#10;開場時給予裝備者及其左右兩格內友軍英雄200點護盾。</s:String>
     <!--Luden's Echo-->
     <s:String x:Key="LudensEcho" xml:space="preserve">盧登回音</s:String>
     <s:String x:Key="LudensEcho1" xml:space="preserve">&#10;技能造成額外200點魔法傷害並彈跳至鄰近敵人身上。</s:String>
